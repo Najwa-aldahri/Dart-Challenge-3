@@ -57,7 +57,6 @@ class Course {
   }
 }
 
-
 class University {
   final List<Course> courses = [];
 
