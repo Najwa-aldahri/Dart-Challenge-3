@@ -38,9 +38,8 @@
         - Remove a course by code.
         - List all courses and their schedules.
         - Search for courses by name or code.
-3. JSON Parsing
-4. Implement functions to Parse the JSON data into Dart objects.
-5. Implement the following methods in the `University` class:
+3. Implement functions to Parse the JSON data into Dart objects.
+4. Implement the following methods in the `University` class:
     - `addCourse(Course course)`: Adds a new course to the list.
     - `removeCourseByCode(String courseCode)`: Removes a course by its code.
     - `listAllCourses()`: Lists all courses with their schedules.
